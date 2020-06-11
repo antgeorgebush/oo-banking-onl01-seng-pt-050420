@@ -1,5 +1,5 @@
 class BankAccount
-  attr
+  attr_accessor :status, :balance
 
 end
 
