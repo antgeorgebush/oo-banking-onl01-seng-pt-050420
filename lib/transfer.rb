@@ -13,7 +13,7 @@
     sender.valid? && receiver.valid?
   end
   
-  def execute_tranasction
+  def execute_transaction
     
     if valid? && sender.balance > amount && self.status == "pending"
     
