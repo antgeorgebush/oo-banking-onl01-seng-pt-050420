@@ -14,6 +14,6 @@
   end
   
   def execute_tranasction
-    if valid? && sender.balance 
+    if valid? && sender.balance > amount && self.status == 
   
 end
