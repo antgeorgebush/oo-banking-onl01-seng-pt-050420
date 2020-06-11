@@ -17,7 +17,7 @@ end
     "Your balance is $#{balance}."
   end
     
-    
+  def valid?
 
 
 
