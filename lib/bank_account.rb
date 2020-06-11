@@ -9,6 +9,8 @@ class BankAccount
 
 end
 
+  def deposit
+    
 
 
 
