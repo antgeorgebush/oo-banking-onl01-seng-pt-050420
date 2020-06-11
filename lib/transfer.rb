@@ -13,5 +13,7 @@
     sender.valid? && receiver.valid?
   end
   
+  def execute_tranasction
+    
   
 end
