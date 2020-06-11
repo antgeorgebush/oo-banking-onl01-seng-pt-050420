@@ -14,6 +14,7 @@
   end
   
   def execute_tranasction
+    
     if valid? && sender.balance > amount && self.status == "pending"
     
     sender.balance -= amount
