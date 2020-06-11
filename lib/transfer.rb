@@ -14,6 +14,6 @@
   end
   
   def execute_tranasction
-    
+    if valid? 
   
 end
